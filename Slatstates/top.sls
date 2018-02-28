@@ -1,6 +1,6 @@
 base:
   'Saltmn':
-     - ntp
+     - vim
   'Devstack':
      - ntp
   'WindowsMinion':
