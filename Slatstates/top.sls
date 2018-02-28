@@ -1,6 +1,6 @@
 base:
   'Saltmn':
-     - maintain_important_file
+     - ntp
   'Devstack':
      - vim
   'WindowsMinion':
