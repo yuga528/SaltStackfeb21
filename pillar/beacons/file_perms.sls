@@ -1,11 +1,11 @@
 beacons:
   file-perms:
 #    - interval: 30
-    - /home/vedams/chaitu: 
+    - /home/vedams/dhanu: 
       - root
       - root
       - 400
-    - /home/vedams/alekhya:
+    - /home/vedams/pratap:
       - root
       - root
       - 400
