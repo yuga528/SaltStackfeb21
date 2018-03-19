@@ -1,6 +1,6 @@
 base:
   'Saltmn':
-#    - key.key
+    - key.key
 #    - returner.returner
 #    - multi-master
 #    - beacons.resourse-monitor
