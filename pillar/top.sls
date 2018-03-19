@@ -5,7 +5,7 @@ base:
 #    - multi-master
 #    - beacons.resourse-monitor
 #    - beacons.resourse-monitor
-    - file_perms
+    - beacons.file_perms
 #    - beacons.services
 #    - webserver.beacons
 #    - returner.returner
