@@ -1,7 +1,7 @@
 base:
   'Saltmn':
      - maintain_important_file
-     - top
+     - veda
   'Devstack':
      - ntp
   'WindowsMinion':
