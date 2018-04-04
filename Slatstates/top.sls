@@ -2,6 +2,7 @@ base:
   'Saltmn':
      - maintain_important_file
      - process_hardening
+     - important
   'Devstack':
      - ntp
   'WindowsMinion':
