@@ -1,7 +1,7 @@
-language: salt
-rvm:
- - 2018.3.3 
- - salt
+language: osx
+#rvm:
+# - 2018.3.3 
+# - salt
 # safelist
 branches:
   only:
