@@ -1,0 +1,4 @@
+language: ansible
+rvm:
+ - 2.2
+ - ansible
