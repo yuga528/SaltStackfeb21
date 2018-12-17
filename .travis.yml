@@ -12,4 +12,4 @@ script:
   - echo "this is django script success"
 
 after_success:
-  - echo "this is after django success"
+  - python -c "import django; print(django.get_version())" 
