@@ -1,4 +1,13 @@
+sudo: required
+
+services:
+  - docker
+
+language: go
+
 deploy:
   provider: gae
-  keyfile: "credentialsgcp.json"
-  project: "my-project-74546"
+  project: veddec6
+  keyfile: VedDec6-74400b5a0074.json
+  verbosity: debug
+  on: master
