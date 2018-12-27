@@ -1,0 +1,4 @@
+deploy:
+  provider: gae
+  keyfile: "credentialsgcp.json"
+  project: "my-project-74546"
