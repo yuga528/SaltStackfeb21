@@ -8,6 +8,6 @@ language: go
 deploy:
   provider: gae
   project: veddec6
-  keyfile: VedDec6-74400b5a0074.json
+  keyfile: gce.json
   verbosity: debug
   on: master
